@@ -21,6 +21,13 @@
     box-shadow: #0a8269 2px 5px 5px;
 }
 
+.life{
+    color: #ecfdf9;
+    align-self: center;
+    justify-content: center;
+}
+
+
 .profile-link {
     color: #ecfdf9;
 }
